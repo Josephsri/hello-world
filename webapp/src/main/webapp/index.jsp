@@ -3,9 +3,13 @@
     <h1>Fresh user Registeration for DevOps Learning</h1>
     <p>Please fill in this form to create a new account.</p>
     <hr>
+
+    <label for="First Name"><b>Enter First Name</b></label>
+    <input type="text" placeholder="Enter Full First Name" name="First Name" id="First Name" required>
+    <br>
      
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <label for="Name"><b>Enter Middle Name</b></label>
+    <input type="text" placeholder="Enter Middle Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
