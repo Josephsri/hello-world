@@ -1,7 +1,7 @@
 <<form action="action_page.php">
   <div class="container">
-    <h1>Newh user Registeration for DevOps Learning</h1>
-    <p>Please fill this form to create a new account.</p>
+    <h1>New IBPS user Registeration for DevOps Learning</h1>
+    <p>Please fill this IBPS form to create a new account.</p>
     <hr>
 
     <label for="First Name"><b>Enter First Name</b></label>
