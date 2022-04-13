@@ -35,7 +35,7 @@
     <p>Already account available? <a href="#">login</a>.</p>
   </div>
 
-   <h1> Thankyou, Wish you a very superb Learning </h1>
+   <h1> Thankyou, Wish you a very superb TNPSC Learning </h1>
 
   
 </form>
