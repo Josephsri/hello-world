@@ -35,7 +35,7 @@
     <p>Already account available? <a href="#">login</a>.</p>
   </div>
 
-   <h1> Thankyou, Wish you a very superb IBPS SBI Learning </h1>
+   <h1> Thankyou, Wish you a IBPS Learning </h1>
 
   
 </form>
