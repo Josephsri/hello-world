@@ -1,6 +1,6 @@
 <<form action="action_page.php">
   <div class="container">
-    <h1>New iTest SBI user Registeration for DevOps Learning</h1>
+    <h1>New iTestNEW SBI user Registeration for DevOps Learning</h1>
     <p>Please fill this TNPSC form to create a new account.</p>
     <hr>
 
